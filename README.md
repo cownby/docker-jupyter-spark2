@@ -1,3 +1,9 @@
+
+
+# I've moved!
+All future updates will be in the repository [https://github.com/Archethought/docker-jupyter-spark2](https://github.com/Archethought/docker-jupyter-spark2)
+
+
 # docker-jupyter-spark2
 Work sponsored by Archethought, http://www.archethought.com/
 
